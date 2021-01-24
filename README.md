@@ -1,4 +1,10 @@
+# My Notebook Project
+
+Application designed for note-taking.
+
 ![Screen_Shot_2021-01-22_at_2 06 22_PM](https://user-images.githubusercontent.com/49866981/105643473-e8b69900-5e44-11eb-8e2c-fcdaf3eb3ed3.png)
+
+On the left column, create notes and add tags to make them easier to find and browse. On the right column, display notes by tag. Click the tag button for each tag you want to display. If you want to display all notes, click "Print All". If you want to reset and print no notes, click "Reset".
 
 # Getting Started with Create React App
 
