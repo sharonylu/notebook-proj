@@ -53,7 +53,7 @@ class NotebookForm extends Component {
 
   onNewNote = () => {
     this.setState(state => {
-      if (state.tag == '' || state.note == '') {
+      if (state.tag === '' || state.note === '') {
         return
       }
       if (!(state.notes.has(state.tag))) {
